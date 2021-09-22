@@ -37,6 +37,6 @@ Actualmente en desarrollo.
      
      
 ## Si te interesa contactarme podes hacerlo a través de:
-📱Teléfono: +54 9 11 3896 8575
-📩Mail: morabessone29@gmail.com
+📱<p>Teléfono: +54 9 11 3896 8575</p>
+📩<p>Mail: morabessone29@gmail.com</p>
 
