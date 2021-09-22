@@ -9,13 +9,10 @@ Dispuesta a aprender nuevas tecnologías!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morabessone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mis proyectos ⬇️
+<h3>Dog's App </h3> <a href="https://github.com/morabessone/PI-Dogs-FT14" target="_blank">Ver codigo</a>
+
+<h3> Countries App </h3> <a href="https://github.com/morabessone/PI-Countries" target="_blank">Ver codigo</a>
 Dog's App
-
-<p>[Ver código](https://github.com/morabessone/PI-Dogs-FT14)</p>
-
-Countries App
-
-<p>[Ver código](https://github.com/morabessone/PI-Countries)</p>
 
 Ola Violeta 
 Actualmente en desarrollo.
