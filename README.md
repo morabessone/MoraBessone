@@ -10,9 +10,13 @@ Dispuesta a aprender nuevas tecnologías!
 
 ## Mis proyectos ⬇️
 Dog's App
-[Ver código](https://github.com/morabessone/PI-Dogs-FT14)
+
+<p>[Ver código](https://github.com/morabessone/PI-Dogs-FT14)</p>
+
 Countries App
-[Ver código](https://github.com/morabessone/PI-Countries)
+
+<p>[Ver código](https://github.com/morabessone/PI-Countries)</p>
+
 Ola Violeta 
 Actualmente en desarrollo.
 
