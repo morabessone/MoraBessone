@@ -12,9 +12,8 @@ Dispuesta a aprender nuevas tecnologías!
 <h3>Dog's App </h3> <a href="https://github.com/morabessone/PI-Dogs-FT14" target="_blank">Ver codigo</a>
 
 <h3> Countries App </h3> <a href="https://github.com/morabessone/PI-Countries" target="_blank">Ver codigo</a>
-Dog's App
 
-Ola Violeta 
+<h3>Ola Violeta</h3> 
 Actualmente en desarrollo.
 
 ## Languages y herramientas:
