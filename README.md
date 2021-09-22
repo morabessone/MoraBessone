@@ -1,8 +1,8 @@
 ### Hola! 👋
 
-Mi nombre es Mora Bessone. Actualmente estoy terminando mis estudios en el Bootcamp Soy Henry como Full Stack Developer. 
-Tengo conocimiento en: Node JS || JavaScript || React || Redux || Express || HTML || CSS || PostgreSQL 
-Dispuesta a aprender nuevas tecnologías!
+<p>Mi nombre es Mora Bessone. Actualmente estoy terminando mis estudios en el Bootcamp Soy Henry como Full Stack Developer.</p> 
+<p>Tengo conocimiento en: Node JS || JavaScript || React || Redux || Express || HTML || CSS || PostgreSQL </p>
+<p>Dispuesta a aprender nuevas tecnologías!</p>
 
 ![Mora GitHub stats](https://github-readme-stats.vercel.app/api?username=morabessone)
 
@@ -37,6 +37,6 @@ Actualmente en desarrollo.
      
      
 ## Si te interesa contactarme podes hacerlo a través de:
-📱<p>Teléfono: +54 9 11 3896 8575</p>
-📩<p>Mail: morabessone29@gmail.com</p>
+<p>📱 Teléfono: +54 9 11 3896 8575</p>
+<p>📩 Mail: morabessone29@gmail.com</p>
 
