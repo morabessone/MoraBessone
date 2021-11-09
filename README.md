@@ -1,6 +1,7 @@
 ### Hola! 👋
 
-<p>Mi nombre es Mora Bessone. Actualmente estoy terminando mis estudios en el Bootcamp Soy Henry como Full Stack Developer.</p> 
+<p>Mi nombre es Mora Bessone. Actualmente estoy trabajando en Henry como Teach Leader, donde termine mis estudios de Full Stack Developer.</p> 
+
 <p>Tengo conocimiento en: Node JS || JavaScript || React || Redux || Express || HTML || CSS || PostgreSQL </p>
 <p>Dispuesta a aprender nuevas tecnologías!</p>
 
